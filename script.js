@@ -1,4 +1,7 @@
 alert("مرحباً بك في موقعي الذي سيحسب درجتك!!")
+ 
+
+
 let grade = prompt("اكتب درجتك بالأرقام")
 console.log(grade);
 
